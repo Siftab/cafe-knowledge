@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Exploring the Hidden Wonders of the Amazon Rainforest",
+      "cover_img": "https://i.ibb.co/gTB7Z8C/html-css-collage-concept-with-hacker.jpg",
+      "author_img": "https://i.ibb.co/61VVmyf/1672053707090-01.jpg",
+      "posted_date": "October 18, 2023",
+      "author_name": "Emily Woods",
+      "read_time": "12 minutes",
+      "description": "In this captivating journey into the heart of the Amazon Rainforest, we uncover its astonishing biodiversity, rich indigenous cultures, and the conservation efforts to protect this natural wonder. Prepare to be amazed by the breathtaking photos and stories from the untamed wild.",
+      "hashtags": ["#Amazon", "#Rainforest", "#Conservation", "#Biodiversity", "#Adventure"]
+    },
+    {
+      "title": "The Art of Coffee Brewing: A Taste Sensation",
+      "cover_img": "https://i.ibb.co/x7VX25x/html-css-collage-concept-with-person.jpg",
+      "author_img": "https://i.ibb.co/r4bLtzW/images.jpg",
+      "posted_date": "October 19, 2023",
+      "author_name": "John Smith",
+      "read_time": "8 minutes",
+      "description": "Discover the intricate world of coffee brewing, from bean selection to brewing methods. Dive into the rich flavors and aromas that await you in this coffee lover's paradise.",
+      "hashtags": ["#Coffee", "#Brewing", "#Taste", "#CoffeeLovers", "#Barista"]
+    },
+    {
+      "title": "Stargazing in the Desert: A Celestial Adventure",
+      "cover_img": "https://i.ibb.co/8BHC3G9/7769804-3230320.jpg",
+      "author_img": "https://i.ibb.co/554nsnb/images.jpg",
+      "posted_date": "October 20, 2023",
+      "author_name": "David Johnson",
+      "read_time": "15 minutes",
+      "description": "Join us on a mesmerizing journey under the desert night sky. Explore the beauty of stars, constellations, and the science of astronomy while camping in the tranquil dunes.",
+      "hashtags": ["#Stargazing", "#Astronomy", "#DesertNights", "#Celestial", "#Adventure"]
+    }
+  ]
+  
